@@ -12,20 +12,6 @@ The Mini Message Board allows users to view existing messages, add new messages,
 - Basic Express.js server setup
 - EJS templating for dynamic content
 
-## Project Structure
-
-mini-message-board/
-├── views/
-│ ├── index.ejs
-│ ├── form.ejs
-│ └── message.ejs
-├── routes/
-│ └── index.js
-├── app.js
-├── package.json
-└── README.md
-text
-
 ## Setup and Installation
 
 1. Clone the repository:
