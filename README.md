@@ -16,19 +16,15 @@ The Mini Message Board allows users to view existing messages, add new messages,
 
 1. Clone the repository:
 git clone https://github.com/abhisheksaraff/mini-message-board.git
-text
 
 2. Navigate to the project directory:
 cd mini-message-board
-text
 
 3. Install dependencies:
 npm install
-text
 
 4. Start the server:
 npm start
-text
 
 5. Open your browser and visit `http://localhost:3000`
 
